@@ -1,0 +1,32 @@
+﻿Date,Name,Role,Field,Ongoing degree,R,Data manipulation,Data visualisation,Statistical modelling,Excel,SmartPLS,Costat,SPSS,remarks
+2019-01-28,Catherine,Grad Student,Finance,MSc,1,1,0,0,1,0,0,0,data manipulation - wide to long format
+2019-01-31,Aisha,Grad Student,Management,PhD,0,0,0,1,0,0,0,1,"correlation matrices, p-values, data types"
+2019-01-31,Georgia,Honours Thesis Undergrad,Environmental Science,BSc,0,0,1,0,1,0,0,0,plotting scatterplots with fills (separate colors)
+2019-01-31,Catherine,Grad Student,Finance,MSc,1,1,0,0,0,0,0,0,"data manipulation - subsetting, row binding"
+2019-01-31,Ryan Ivany,Undergrad,Biology,BSc,1,0,0,0,0,0,0,0,teaching basic coding in R
+2019-02-04,Catherine,Grad Student,Finance,MSc,1,1,0,1,0,0,0,0,data manipulation - inner join operations
+2019-02-04,Georgia,Honours Thesis Undergrad,Environmental Science,BSc,1,0,1,0,0,0,0,0,"data visualization - scatterplots, ggplot2"
+2019-02-07,Catherine,Grad Student,Finance,MSc,1,1,0,0,0,0,0,0,data manipulation - inner join operations
+2019-02-07,Georgia,Honours Thesis Undergrad,Environmental Science,BSc,1,0,1,0,0,0,0,0,"data visualization - scatterplots, ggplot2"
+2019-02-11,,,,,,,,,,,,,
+2019-02-14,,,,,,,,,,,,,
+2019-02-18,,,,,,,,,,,,,
+2019-02-21,,,,,,,,,,,,,
+2019-02-25,Kevin Pardle,Grad Student,Business,MBA,0,0,0,1,0,0,0,1,statistical modelling - binary logistic regression
+2019-02-25,Catherine,Grad Student,Finance,MSc,1,0,0,1,0,0,0,0,statistical modelling - ordinary least squares regression
+2019-02-28,Aisha,Grad Student,Management,PhD,0,0,0,1,0,0,0,1,"statistical modelling - multiple linear regression, forward selection"
+2019-02-28,Catherine,Grad Student,Finance,MSc,1,1,1,1,0,0,0,0,"data wrangling, correlation matrix"
+2019-03-04,Catherine,Grad Student,Finance,MSc,1,1,0,0,0,0,0,0,"data manipulation - missing data imputation (mean substitution), OLS regression"
+2019-03-07,Georgia,Honours Thesis Undergrad,Environmental Science,BSc,1,0,1,0,0,0,0,0,"data visualization - scatterplots, ggplot2, cowplot (multi-panel figure)"
+2019-03-11,Catherine,Grad Student,Finance,MSc,1,0,1,1,0,0,0,0,"data visualization - converting regression output into APA table format; statistical modelling - contrasts for factor variables, ANOVA, OLS regression "
+2019-03-11,Carter,Honours Thesis Undergrad,Biology,BSc,1,0,0,0,0,0,0,0,R programming - figuring out how to read basic functions in R for Laura Weir's fish class
+2019-03-11,Soheil,Grad Student,Business,MBA,0,0,0,1,0,1,0,0,statistical modelling - structural equation modelling
+2019-03-11,Kevin Vessey,Professor,Agriculture,None,0,0,0,1,0,0,1,0,"statistical modelling - control treatments, treatment contrasts, ANOVA, experimental design"
+2019-03-14,Kevin Vessey,Professor,Agriculture,None,0,0,0,1,0,0,1,0,"statistical modelling - post hoc hypothesis testing, model selection (LRT, backward stepwise), ANOVA (Type I, II, III)"
+2019-03-14,Brittany,Honours Thesis Undergrad,Environmental Studies,BSc,1,1,0,1,0,0,0,0,"R programming (setting up first R script), ANOVA, database management"
+2019-03-14,Catherine,Grad Student,Finance,MSc,1,0,0,0,0,0,0,0,R programming - debugging stargazer function
+2019-03-18,Brittany,Honours Thesis Undergrad,Environmental Studies,BSc,1,0,1,0,0,0,0,0,R programming - data visualization (multi-panel figures)
+2019-03-21,,,,,,,,,,,,,
+2019-03-25,Catherine,Grad Student,Finance,MSc,1,1,0,1,0,0,0,0,"unequal variance two-sampled tests, testing model assumptions, difference in means test"
+2019-03-25,Soheil,Grad Student,Business,MBA,0,0,0,1,0,1,0,0,"statistical modelling - structural equation modelling, path least squares coefficient, model fit metrics"
+2019-03-25,Georgia,Honours Thesis Undergrad,Environmental Science,BSc,1,0,1,0,0,0,0,0,R programming - data visualization (multi-panel figures)
