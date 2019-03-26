@@ -84,7 +84,7 @@ data_problems <- c("Data Manipulation",
 
 df_long %>%
   mutate(data_field = str_replace(data_field, "_", " ") %>% str_to_title) %>%
-  filter(counts > 0, data_field %in% data_problems)%>%
+  filter(counts > 0, data_field %in% data_problems) %>%
   ggplot(aes(x = data_field)) + 
     geom_bar() + 
     facet_wrap(~name) +
@@ -113,6 +113,20 @@ df_clean %>%
 df_clean %>%
   filter(name == "") %>%
   pull(date) 
-  
 
+# how many total sessions were there?
+df_clean %>%
+  pull(date) %>%
+  unique() %>%
+  length()
+
+# list of statistical models and tests used -----
+
+# binary logistic regression
+# ordinary least squares regression
+# multiple linear regression
+# correlation matrix
+# analysis of variance models
+# t-tests
+# structural equation modelling
   

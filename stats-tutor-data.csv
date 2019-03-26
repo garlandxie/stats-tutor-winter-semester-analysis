@@ -16,15 +16,15 @@
 2019-02-25,Catherine,Grad Student,Finance,MSc,1,0,0,1,0,0,0,0,statistical modelling - ordinary least squares regression
 2019-02-28,Aisha,Grad Student,Management,PhD,0,0,0,1,0,0,0,1,"statistical modelling - multiple linear regression, forward selection"
 2019-02-28,Catherine,Grad Student,Finance,MSc,1,1,1,1,0,0,0,0,"data wrangling, correlation matrix"
-2019-03-04,Catherine,Grad Student,Finance,MSc,1,1,0,0,0,0,0,0,"data manipulation - missing data imputation (mean substitution), OLS regression"
+2019-03-04,Catherine,Grad Student,Finance,MSc,1,1,0,1,0,0,0,0,"data manipulation - missing data imputation (mean substitution), OLS regression"
 2019-03-07,Georgia,Honours Thesis Undergrad,Environmental Science,BSc,1,0,1,0,0,0,0,0,"data visualization - scatterplots, ggplot2, cowplot (multi-panel figure)"
 2019-03-11,Catherine,Grad Student,Finance,MSc,1,0,1,1,0,0,0,0,"data visualization - converting regression output into APA table format; statistical modelling - contrasts for factor variables, ANOVA, OLS regression "
-2019-03-11,Carter,Honours Thesis Undergrad,Biology,BSc,1,0,0,0,0,0,0,0,R programming - figuring out how to read basic functions in R for Laura Weir's fish class
+2019-03-11,Carter,Honours Thesis Undergrad,Biology,BSc,1,0,0,1,0,0,0,0,"R programming - figuring out how to read basic functions in R for Laura Weir's fish class, modelling fish growth"
 2019-03-11,Soheil,Grad Student,Business,MBA,0,0,0,1,0,1,0,0,statistical modelling - structural equation modelling
-2019-03-11,Kevin Vessey,Professor,Agriculture,None,0,0,0,1,0,0,1,0,"statistical modelling - control treatments, treatment contrasts, ANOVA, experimental design"
-2019-03-14,Kevin Vessey,Professor,Agriculture,None,0,0,0,1,0,0,1,0,"statistical modelling - post hoc hypothesis testing, model selection (LRT, backward stepwise), ANOVA (Type I, II, III)"
+2019-03-11,Cameron,Honours Thesis Undergrad,Agriculture,BSc,0,0,0,1,0,0,1,0,"statistical modelling - control treatments, treatment contrasts, ANOVA, experimental design"
+2019-03-14,Cameron,Honours Thesis Undergrad,Agriculture,BSc,0,0,0,1,0,0,1,0,"statistical modelling - post hoc hypothesis testing, model selection (LRT, backward stepwise), ANOVA (Type I, II, III)"
 2019-03-14,Brittany,Honours Thesis Undergrad,Environmental Studies,BSc,1,1,0,1,0,0,0,0,"R programming (setting up first R script), ANOVA, database management"
-2019-03-14,Catherine,Grad Student,Finance,MSc,1,0,0,0,0,0,0,0,R programming - debugging stargazer function
+2019-03-14,Catherine,Grad Student,Finance,MSc,1,0,1,0,0,0,0,0,R programming - debugging stargazer function
 2019-03-18,Brittany,Honours Thesis Undergrad,Environmental Studies,BSc,1,0,1,0,0,0,0,0,R programming - data visualization (multi-panel figures)
 2019-03-21,,,,,,,,,,,,,
 2019-03-25,Catherine,Grad Student,Finance,MSc,1,1,0,1,0,0,0,0,"unequal variance two-sampled tests, testing model assumptions, difference in means test"
